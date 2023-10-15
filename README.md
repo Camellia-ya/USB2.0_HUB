@@ -20,22 +20,26 @@
 
 **3D图**
 
-<img width="698" alt="image" src="https://github.com/Camellia-ya/USB2.0_HUB/assets/126542281/b6dd7409-54b3-4665-865c-244c5e8ccab0">
+<img width="685" alt="image" src="https://github.com/Camellia-ya/USB2.0_HUB/assets/126542281/707c0f02-0e2b-4428-9a3a-ada587cdb76b">
 
 
-<img width="760" alt="image" src="https://github.com/Camellia-ya/USB2.0_HUB/assets/126542281/cebb1d38-e1bb-4ef5-8dfd-55c1a23cdb32">
+
+<img width="661" alt="image" src="https://github.com/Camellia-ya/USB2.0_HUB/assets/126542281/904ba347-deb5-457c-98e8-c359216dc629">
+
 
 
 
 
 **实物如下**
 
-
-<img width="641" alt="image" src="https://github.com/Camellia-ya/USB2.0_HUB/assets/126542281/62384281-a8c4-408c-8bcb-1e4acbf55385">
-
-
-<img width="618" alt="image" src="https://github.com/Camellia-ya/USB2.0_HUB/assets/126542281/09e168c4-25de-46f4-a2f4-28529cae62ed">
+<img width="649" alt="image" src="https://github.com/Camellia-ya/USB2.0_HUB/assets/126542281/e8b2ea3c-ed9c-4f50-bd9e-3a09e1e705e8">
 
 
 
-欢迎讨论！
+
+<img width="632" alt="image" src="https://github.com/Camellia-ya/USB2.0_HUB/assets/126542281/a685fee3-b331-4304-aa37-b4a5a614b02b">
+
+
+
+
+欢迎讨论！🥰🥰
